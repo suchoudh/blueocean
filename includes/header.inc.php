@@ -43,8 +43,9 @@ if(isset($_SESSION['cart'])){
                             <div class="top-social">
 								<ul>
 									
-									<li><a class="mysocial" href="#"><i class="fa fa-youtube-play"></i></a></li>
-									<li><a class="mysocial" href="#"><i class="fa fa-twitter"></i></a></li>
+									<li><a class="mysocial" href="https://www.youtube.com/channel/UCK8dQsMSgv8WTegfg3YbzrA"><i class="fa fa-youtube-play"></i></a></li>
+									<li><a class="mysocial" href="http://www.twitter.com/BlueBhopal"><i class="fa fa-twitter"></i></a></li>
+									<li><a class="mysocial" href="http://www.linkedin.com/in/blue-ocean"><i class="fa fa-linkedin"></i></a></li>
 									<li><a class="mysocial" href="https://www.facebook.com/BlueOceanTechSolutions/" target="_blank"><i class="fa fa-facebook"></i></a></li>
                                     <li>  <a href="cart.php">
                                     <div id="ex4">

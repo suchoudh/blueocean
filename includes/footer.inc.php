@@ -21,21 +21,22 @@
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#">
+                                                <a href="http://www.twitter.com/BlueBhopal">
                                                     <i class="fa fa-twitter"></i>
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#">
+                                                <a href="https://www.youtube.com/channel/UCK8dQsMSgv8WTegfg3YbzrA">
                                                     <i class="fa fa-youtube-play"></i>
                                                 </a>
                                             </li>
-                                         <!--   <li>
-                                                <a href="#">
-                                                    <i class="fa fa-pinterest"></i>
+
+                                            <li>
+                                                <a href="http://www.linkedin.com/in/blue-ocean">
+                                                    <i class="fa fa-linkedin"></i>
                                                 </a>
                                             </li>
-                                            <li>
+                                        <!--    <li>
                                                 <a href="#">
                                                     <i class="fa fa-instagram"></i>
                                                 </a>
